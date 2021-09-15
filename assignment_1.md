@@ -16,7 +16,8 @@ I use the SSH service to login to my VPS, and perform administrative operations 
 --------------------------------
 # Port 23: Telnet protocol
 
-I use the telnet protocol to configure my TP-link router
+I use the telnet protocol to configure my TP-link router.
+From my own experience, this service is a little bit similar to the SSH service, but its unencrypted.
 
 --------------------------------
 # Port 25: Simple Mail Transfer Protocol (SMTP)
