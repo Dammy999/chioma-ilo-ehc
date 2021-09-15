@@ -39,8 +39,7 @@ DHCP is used when the static IP address allocation option is not used.
 --------------------------------
 # Port 80: Hypertext Transfer Protocol (HTTP)
 
-Almost all modern web browser use this protocol to exchange data with a web server
-
+Almost all modern web browser use 
 --------------------------------
 # Port 110: Post office protocol (POP)
 
