@@ -1,9 +1,9 @@
 # The question
-What service is rendered on on the following ports, and how are these services used
+What service is rendered on each of the following ports, and how are these services used.
 
-# Answer
+# The answer
 
-# Port 20: File Transfer Protocol(FTP) - data transfer port 
+# Port 20: File Transfer Protocol(FTP) - data transfer port  
 # Port 21: File Transfer protocol(FTP) - Control commands
 
 I use the FTP service to upload/download files to/from my VPS
