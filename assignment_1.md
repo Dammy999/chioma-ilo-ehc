@@ -1,7 +1,8 @@
 # The question
 What service is rendered on on the following ports, and how are these services used
 
-@ hjch
+# Answer
+
 Port 20: File Transfer Protocol(FTP) - data transfer port 
 Port 21: File Transfer protocol(FTP) - Control commands
 
@@ -23,16 +24,17 @@ Port 25: Simple Mail Transfer Protocol (SMTP)
 It's use to send mail to a mail server (e.g. mail.google.com) from a mail client (e.g. Thunderbird)
 
 --------------------------------
-Port 53: Domain Name System (DNS)
+#Port 53: Domain Name System (DNS)
 
-The DNS service converts the human readable domain names to IP that the TCP/IP protocol can work with (e.g. techietude.com sent to a DNS resolver gave me 172.67.180.14)
+The DNS service converts the human readable domain names to IP that the TCP/IP protocol suite can work with (e.g. techietude.com sent to a DNS resolver gave me 172.67.180.14)
 
 --------------------------------
-Port 67: Bootstrap protocol server / DHCP
+#Port 67: Bootstrap protocol server / DHCP
 
 Port 68: Bootstrap protocol client / DHCP
 
 The DHCP service is use to dynamically assign an IP address to a device that's just joining a network. 
+DHCP is used when the static IP address allocation option is not used. 
  
 --------------------------------
 Port 80: Hypertext Transfer Protocol (HTTP)
