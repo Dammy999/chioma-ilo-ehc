@@ -22,12 +22,12 @@ From my own experience, this service is a little bit similar to the SSH service,
 --------------------------------
 # Port 25: Simple Mail Transfer Protocol (SMTP)
 
-It's use to send mail to a mail server (e.g. mail.google.com) from a mail client (e.g. Thunderbird)
+It's used to send mail to a mail server (e.g. mail.google.com) from a mail client (e.g. Thunderbird).
 
 --------------------------------
 # Port 53: Domain Name System (DNS)
 
-The DNS service converts the human readable domain names to IP addresses that the TCP/IP protocol suite can work with (e.g. techietude.com sent to a DNS resolver gave me the IP: 172.67.180.14)
+The DNS service converts the human readable domain names to IP addresses that the TCP/IP protocol suite can work with (e.g. techietude.com sent to a DNS resolver gave me the IP: 172.67.180.14).
 
 --------------------------------
 # Port 67: Bootstrap protocol server / DHCP
@@ -46,7 +46,7 @@ Almost all modern web browsers use this protocol.
 --------------------------------
 # Port 110: Post office protocol (POP)
 
-It's a service that's used to synchronise mail between a mail server and a mail client
+It's a service that's used to synchronise mail between a mail server and a mail client.
 
 --------------------------------
 # Port 123: Network Time Protocol (NTP)
