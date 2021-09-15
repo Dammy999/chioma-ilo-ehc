@@ -27,7 +27,7 @@ It's used to send mail to a mail server (e.g. mail.google.com) from a mail clien
 --------------------------------
 # Port 53: Domain Name System (DNS)
 
-The DNS service converts the human readable domain names to IP addresses that the TCP/IP protocol suite can work with (e.g. techietude.com sent to a DNS resolver gave me the IP: 172.67.180.14).
+The DNS service converts the human readable domain names to IP addresses that the TCP/IP protocol suite can work with (e.g. **techietude.com** sent to a DNS resolver gave me the IP: **172.67.180.14**).
 
 --------------------------------
 # Port 67: Bootstrap protocol server / DHCP
