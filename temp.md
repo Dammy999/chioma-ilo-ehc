@@ -36,7 +36,6 @@ tswu@tesla.com
 lrangergonzales@tesla.com
 leej@tesla.com
 sunchoi@tesla.com
-ebc895e1-c0dc-4039-b160-7a656cac72a3@tesla.com
 mbongo@tesla.com
 elonmusk@tesla.com
 elon@tesla.com
