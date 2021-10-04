@@ -4,42 +4,37 @@ In the cause of gathering information (passively) on this target, the following 
 
 Subdomains (none of the subdomains below is gurded using cloudflare)
 --
-
-| msoid.starlink.com | 40.126.31.143 
-| auth.starlink.com | 151.101.14.133 
-| api.starlink.com | 151.101.14.133
-| www.starlink.com | 151.101.14.133
-| wifi-update.starlink.com | 52.244.111.198 
-| metabase.starlink.com | 52.188.11.213 
-| connect.staging.starlink.com | 34.117.135.184 
-| connect.starlink.com | 34.107.166.226 
-| analytics.starlink.com | 151.101.14.13
-| support-agent.staging.starlink.com | 34.102.189.86 
-| api.payments-test.starlink.com | 151.101.14.133 |
-| api2.staging.starlink.com | 34.96.119.62 
-| api2.starlink.com | 34.96.93.42 
-| shop.staging.starlink.com | 34.120.234.51 
-| shop.starlink.com | 151.101.14.133 
-| admin.staging.starlink.com | 34.107.225.161 
-| api.staging.starlink.com | 35.190.54.195 
-| auth.staging.starlink.com | 34.102.189.86 
-| fulfillment.staging.starlink.com | 34.102.189.86 
-| staging.starlink.com | 34.102.189.86 
-
+| webmail11.web.com | 207.204.50.48
+| webmail1.web.com | 209.237.134.157
+| email1.web.com | 192.243.228.1
+| t.email1.web.com | 35.155.0.183 
+| vpn1.web.com | 209.17.114.81 
+| www1.web.com | 216.21.227.85 
+| dns102.web.com | 207.204.21.83 
+| secure2.web.com | 216.21.227.78 
+| webmail2.web.com | 209.237.134.155 
+| neo2.web.com | 64.69.222.197 
 
 
 
 Emails (a lot of mail addresses were found, few are below)
 --
 
-capitol@starlink.com
-zifnab@starlink.com
-jessica@starlink.com
-scat@starlink.com
-jkester@starlink.com
-kaze@starlink.com
-delw@starlink.com
-tomb@starlink.com
-weraz@starlink.com
-jchow@starlink.com
-zunigha@starlink.com
+elkethiernaertner@web.com
+emil@web.com
+xdxdxd@web.com
+dj_mahmoed@web.com
+defdasd@web.com
+depalla@web.com
+deinemudda@web.com
+dfrfjerkhi@web.com
+diester89@web.com
+dfsfdsf@web.com
+diggler@web.com
+dfgwiuef@web.com
+dynamofan4@web.com
+dfredr001@web.com
+alexandra.wood@web.com
+amaya.davis@web.com
+tadindaseyahat@web.com
+admin@web.com
