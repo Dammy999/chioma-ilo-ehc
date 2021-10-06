@@ -1,4 +1,4 @@
-**Hubspot**
+**Hubspot.com**
 
 In the cause of gathering information (passively) on this target, the following information were summed up.
 
@@ -31,3 +31,16 @@ cbowles@hubspot.com
 noreply@hubspot.com
 medium@hubspot.com
 mcarruthers@hubspot.com
+
+Whois info
+--
+
+***Registrar***:
+--
+MarkMonitor Inc.
+
+Name Servers:
+--
+jerry.ns.cloudflare.com
+yolanda.ns.cloudflare.com
+
