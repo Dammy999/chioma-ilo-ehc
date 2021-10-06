@@ -14,3 +14,11 @@ Subdomains (some of the subdomains below are proxied through cloudflare)
 | guide.rarible.com | 104.18.0.145 
 
 
+Whois info
+--
+***Registrar***:
+Gandi SAS
+
+***Name Servers***:
+buck.ns.cloudflare.com
+fay.ns.cloudflare.com
