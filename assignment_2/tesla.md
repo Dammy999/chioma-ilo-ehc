@@ -1,4 +1,4 @@
-**Tesla**
+**Tesla.com**
 
 In the cause of gathering information (passively) on this target, the following information were summed up.
 
@@ -37,4 +37,23 @@ elon@tesla.com
 jpedrablanca@tesla.com
 apacpress@tesla.com
 
+
+
+
+Whois info
+--
+Registrar:
+MarkMonitor Inc.
+
+***Name Servers (Cloudflare not in use)***:
+a1-12.akam.net
+a10-67.akam.net
+a12-64.akam.net
+a28-65.akam.net
+a7-66.akam.net
+a9-67.akam.net
+edns69.ultradns.biz
+edns69.ultradns.com
+edns69.ultradns.net
+edns69.ultradns.org
 
