@@ -35,3 +35,13 @@ tomb@starlink.com
 weraz@starlink.com
 jchow@starlink.com
 zunigha@starlink.com
+
+
+Whois info
+--
+***Registrar***:
+GoDaddy.com, LLC
+
+***Name Servers (plain WAF proxy like cloudflare not in use)***:
+ns51.domaincontrol.com
+ns52.domaincontrol.com
