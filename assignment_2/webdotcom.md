@@ -38,3 +38,38 @@ alexandra.wood@web.com
 amaya.davis@web.com
 tadindaseyahat@web.com
 admin@web.com
+
+Whois info
+--
+
+***Registrar***:
+Register.com, Inc.
+
+***Name Servers***:
+ian.ns.cloudflare.com
+nia.ns.cloudflare.com
+
+***Registrant E-mail***:
+Registrant Contact
+Name:
+Domain Manager
+Organization:
+Web.com Group, Inc.
+Street:
+12808 Gran Bay Parkway West
+City:
+Jacksonville
+State:
+FL
+Postal Code:
+32258
+Country:
+US
+Phone:
++1.9046806600
+Fax:
++1.9048800350
+Email:
+email@web.com
+
+***The registrant didn't use services like WhoisGuard. The contact info that is publicly available can be user by phishers*** 
